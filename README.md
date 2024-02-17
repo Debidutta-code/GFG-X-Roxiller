@@ -16,4 +16,4 @@
 
 1. npm install
 2. npm install react-router-dom@5 (version 5)
-3. npm install victory
+3. npm install victory  (for the bar chart)
