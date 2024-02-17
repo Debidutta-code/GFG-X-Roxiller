@@ -1,0 +1,39 @@
+.dropdown-container {
+    width: 200px; /* Adjust width as needed */
+    margin-left: 20px; /* Add margin to separate from the search bar */
+    cursor: pointer;
+  }
+  
+  /* Style the select element */
+  .dropdown-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: -100px;
+    border-radius: 10px;
+    border: 2px solid #410f0f;
+    background-color: #fff;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    appearance: none; /* Remove default appearance */
+  }
+
+  .text{
+    text-align: center;
+  }
+  
+  /* Style the dropdown arrow */
+  .dropdown-container select::-ms-expand {
+    display: none; /* Hide default arrow for IE */
+  }
+  
+  .dropdown-container select::-webkit-select-arrow {
+    display: none; /* Hide default arrow for Chrome, Safari, and Opera */
+  }
+  
+  /* Style the dropdown options */
+  .dropdown-container select option {
+    background-color: #fff;
+    color: #333;
+  }
+  
