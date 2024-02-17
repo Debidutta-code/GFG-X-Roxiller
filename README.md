@@ -1,6 +1,6 @@
 # GFG-X-Roxiller
 
-## Remember I'm using react-router-dom version - 5  ||  react-router-dom@5   (The latest version is not supported by my PC)
+## Remember I'm using react-router-dom version - 5  (The latest version is not supported by my PC)
 
 ## cd ./server (go to server folder)
 
